@@ -6,21 +6,21 @@ const Testimonials = () => {
       name: "Praveen",
       feedback:
         "This app made applying for a loan so easy and quick. I got approved within minutes!",
-      image: "/images/person-1.jpg",
+      image: "images/person-1.jpg",
       designation: "Small Business Owner",
     },
     {
       name: "Rakesh",
       feedback:
         "I loved how transparent the process was. No hidden fees, and everything was clearly explained.",
-      image: "/images/person-2.jpg",
+      image: "images/person-2.jpg",
       designation: "Freelancer",
     },
     {
       name: "Reshma",
       feedback:
         "The interest rates are competitive, and the repayment options fit my budget perfectly.",
-      image: "/images/person-3.jpg",
+      image: "images/person-3.jpg",
       designation: "Teacher",
     },
   ];

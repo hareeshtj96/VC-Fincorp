@@ -15,7 +15,7 @@ const Header = () => {
         <div className="flex items-center flex-shrink-0 space-x-2">
           <a href="#" className="flex items-center space-x-2">
             <img
-              src="/images/VC.png"
+              src="images/VC.png"
               alt="Logo"
               className="h-12 w-12 md:h-16 md:w-16 object-contain"
             />

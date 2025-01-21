@@ -3,18 +3,18 @@ import React, { useEffect, useState } from "react";
 const HeroSection = () => {
   const slides = [
     {
-      image: "/images/image-1.webp",
+      image: "images/image-1.webp",
       heading: "Welcome to VC FINCORP",
       subText:
         "Empowering you with financial solutions that make a difference!",
     },
     {
-      image: "/images/image-2.webp",
+      image: "images/image-2.webp",
       heading: "Your Trusted Financial Partner",
       subText: "We offer customized solutions for all your financial needs.",
     },
     {
-      image: "/images/image-3.webp",
+      image: "images/image-3.webp",
       heading: "Let’s Grow Together",
       subText: "Achieve your dreams with VC FINCORP’s support!",
     },
